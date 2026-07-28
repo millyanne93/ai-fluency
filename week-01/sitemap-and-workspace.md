@@ -35,7 +35,8 @@ The sitemap is designed to walk a CTO or tech lead from landing to action in und
 
 ### Screenshot
 
-![Claude Project Configuration](../assets/images/claude-project-screenshot.png)
+![Claude Project Configuration]<img width="1366" height="728" alt="2026-07-20 (3)" src="https://github.com/user-attachments/assets/730973c6-a979-425d-a8aa-9100ae4dd119" />
+
 
 ### Custom Instructions (Summary)
 
