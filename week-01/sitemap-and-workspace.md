@@ -18,43 +18,25 @@
 
 ### Sketch
 
-![Sitemap Sketch]
-┌─────────────────────────────────────────────────────────────┐
-│                    VISITOR ARRIVES                         │
-│                                                             │
-│  ┌─────────────────────────────────────────────────────┐   │
-│  │  HERO PAGE                                         │   │
-│  │  • Headline: "I build dependable backend APIs."    │   │
-│  │  • Subtext: "APIs that stay correct when things   │   │
-│  │    go wrong."                                      │   │
-│  │  • CTA: "Email me to schedule a technical         │   │
-│  │    interview."                                     │   │
-│  └─────────────────────────────────────────────────────┘   │
-│                         │                                  │
-│                         ▼                                  │
-│  ┌─────────────────────────────────────────────────────┐   │
-│  │  WORK PAGE                                        │   │
-│  │  • EduAdapt: Problem → What I Did → Result        │   │
-│  │  • PlanIt: Problem → What I Did → Result          │   │
-│  │  • Trackr: Problem → What I Did → Result          │   │
-│  └─────────────────────────────────────────────────────┘   │
-│                         │                                  │
-│                         ▼                                  │
-│  ┌─────────────────────────────────────────────────────┐   │
-│  │  ABOUT PAGE                                       │   │
-│  │  • "I'm a backend engineer who prioritizes        │   │
-│  │     reliability and clear error handling."        │   │
-│  │  • Brief story + why I care about dependability   │   │
-│  └─────────────────────────────────────────────────────┘   │
-│                         │                                  │
-│                         ▼                                  │
-│  ┌─────────────────────────────────────────────────────┐   │
-│  │  CONTACT PAGE                                     │   │
-│  │  • "Email me to schedule a technical interview."  │   │
-│  │  • Email: millyanne254@gmail.com                  │   │
-│  │  • LinkedIn link                                  │   │
-│  └─────────────────────────────────────────────────────┘   │
-└─────────────────────────────────────────────────────────────┘
+
+The sitemap walks a CTO or tech lead from landing → believing → action:
+
+1. **Hero / Landing**
+   - Claim: "I build dependable backend APIs that stay correct when things go wrong."
+   - CTA: "Email me to schedule a technical interview."
+
+2. **Work / Case Studies**
+   - EduAdapt: Problem → What I Did → Result
+   - PlanIt: Problem → What I Did → Result
+   - Trackr: Problem → What I Did → Result
+
+3. **About / Approach**
+   - "I'm a backend engineer who prioritizes reliability and clear error handling."
+   - Brief story + why dependability matters
+
+4. **Contact / CTA**
+   - "Email me to schedule a technical interview."
+   - Email + LinkedIn link
 
 ### Description
 
