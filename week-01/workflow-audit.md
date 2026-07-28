@@ -74,11 +74,13 @@
 
 ### Claude Project
 
-![Claude Project](../assets/images/claude-project-screenshot.png)
+![Claude Project]<img width="1366" height="728" alt="2026-07-20" src="https://github.com/user-attachments/assets/276129e0-012d-4eaf-a064-766c01b579b5" />
+
 
 ### Anthropic Academy Enrollment
 
-![Anthropic Academy](../assets/images/anthropic-academy-screenshot.png)
+![Anthropic Academy]<img width="1366" height="728" alt="2026-07-20 (1)" src="https://github.com/user-attachments/assets/10de77e5-1fd6-4695-adda-a97ca1ca2c2b" />
+
 
 ---
 
