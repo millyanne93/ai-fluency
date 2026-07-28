@@ -18,7 +18,43 @@
 
 ### Sketch
 
-![Sitemap Sketch](../assets/images/sitemap-sketch.png)
+![Sitemap Sketch]
+┌─────────────────────────────────────────────────────────────┐
+│                    VISITOR ARRIVES                         │
+│                                                             │
+│  ┌─────────────────────────────────────────────────────┐   │
+│  │  HERO PAGE                                         │   │
+│  │  • Headline: "I build dependable backend APIs."    │   │
+│  │  • Subtext: "APIs that stay correct when things   │   │
+│  │    go wrong."                                      │   │
+│  │  • CTA: "Email me to schedule a technical         │   │
+│  │    interview."                                     │   │
+│  └─────────────────────────────────────────────────────┘   │
+│                         │                                  │
+│                         ▼                                  │
+│  ┌─────────────────────────────────────────────────────┐   │
+│  │  WORK PAGE                                        │   │
+│  │  • EduAdapt: Problem → What I Did → Result        │   │
+│  │  • PlanIt: Problem → What I Did → Result          │   │
+│  │  • Trackr: Problem → What I Did → Result          │   │
+│  └─────────────────────────────────────────────────────┘   │
+│                         │                                  │
+│                         ▼                                  │
+│  ┌─────────────────────────────────────────────────────┐   │
+│  │  ABOUT PAGE                                       │   │
+│  │  • "I'm a backend engineer who prioritizes        │   │
+│  │     reliability and clear error handling."        │   │
+│  │  • Brief story + why I care about dependability   │   │
+│  └─────────────────────────────────────────────────────┘   │
+│                         │                                  │
+│                         ▼                                  │
+│  ┌─────────────────────────────────────────────────────┐   │
+│  │  CONTACT PAGE                                     │   │
+│  │  • "Email me to schedule a technical interview."  │   │
+│  │  • Email: millyanne254@gmail.com                  │   │
+│  │  • LinkedIn link                                  │   │
+│  └─────────────────────────────────────────────────────┘   │
+└─────────────────────────────────────────────────────────────┘
 
 ### Description
 
