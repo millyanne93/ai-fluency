@@ -4,6 +4,7 @@
 https://chimerical-crostata-95f7f1.netlify.app/
 
 ### Screenshot
+<img width="1242" height="2208" alt="IMG_1162 (1)" src="https://github.com/user-attachments/assets/f912db85-af71-42e7-957a-038fa7afa3d3" />
 
 
 ### Stack Rationale
