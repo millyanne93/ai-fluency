@@ -26,16 +26,18 @@
 ## Real Captures
 
 ### PlanIt — Architecture Diagram
-![PlanIt Architecture](../assets/images/planit-architecture.png)
+<img width="1343" height="637" alt="image" src="https://github.com/user-attachments/assets/f90bf388-3281-4d95-8064-5fff18daf6e0" />
 
 ### EduAdapt — Swagger UI
-![EduAdapt Swagger UI](../assets/images/eduadapt-swagger.png)
+<img width="1366" height="728" alt="2026-08-04" src="https://github.com/user-attachments/assets/7a85f3f5-b5ab-4d66-8e92-a30248e0b559" />
 
 ### Trackr — Dashboard
-![Trackr Dashboard](../assets/images/trackr-dashboard.png)
+
+<img width="1347" height="605" alt="image" src="https://github.com/user-attachments/assets/fc9d5b48-5b5b-43c8-babc-188e49c46f47" />
 
 ### Profile Photo
-![Millyanne](../assets/images/profile-photo.jpg)
+<img width="976" height="1101" alt="Gemini_Generated_Image_1g8izd1g8izd1g8i" src="https://github.com/user-attachments/assets/2864bff3-f159-458d-8b1e-ca4b5b109c8e" />
+
 
 ---
 
