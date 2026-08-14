@@ -15,9 +15,9 @@ collect data and use that data to perform self-directed tasks that meet
 predetermined goals.
 
 The difference between an agent and a normal chatbot is their 
-complexity, personalisationand adaptability.
-Unlike chatbots, agentic AI can perform multi step tasks, adapt to user 
-preference and learn over time, making them flexible. 
+complexity, personalisation and adaptability.
+Unlike chatbots, agentic AI can perform multi-step tasks, adapt to user 
+preferences and learn over time, making them flexible. 
 An agent is not limited to generating text from the information already
 available in the conversation. An agent can interact with external
 systems through tools and can use the results of those actions to decide
@@ -32,12 +32,12 @@ which additional action is necessary.
 ## 2. Workflow vs Agent
 
 A workflow is a predefined sequence of steps. Each step is designed in
-advance and the system generally follows the sequence provided by the
+advance, and the system generally follows the sequence provided by the
 developer.
 
 An agent is more dynamic. Instead of following only a fixed sequence,
 it can decide which tools to use, interpret the results, and determine
-what action should happen next based on the current state of the task.
+What action should occur next based on the current state of the task?
 
 A simple way to describe the difference is:
 
@@ -171,7 +171,7 @@ The MCP tool returned:
 - `requirements.md`
 - `tasks.md`
 
-![MCP list directory](screenshots/01-mcp-list-directory.png)
+<img width="1366" height="728" alt="2026-08-14 (4)" src="https://github.com/user-attachments/assets/4b908c87-a497-4678-aa3b-ed743ffc6876" />
 
 This demonstrates that the agent used an MCP filesystem tool to inspect
 the local directory.
@@ -183,7 +183,7 @@ the local directory.
 I asked the agent to use the `read_text_file` MCP tool to retrieve
 `project.md` and then summarize its contents.
 
-![MCP read file](screenshots/02-mcp-read-file.png)
+<img width="1366" height="728" alt="2026-08-14 (2)" src="https://github.com/user-attachments/assets/32f04e24-788c-41bf-8b7b-e49a4f57ee8e" />
 
 This demonstrates an MCP tool retrieving information from a local file
 and passing the result back to the AI for processing.
@@ -198,10 +198,15 @@ I asked the agent to use the `read_multiple_files` MCP tool to retrieve
 The agent then analyzed the retrieved information and recommended the
 most important development task.
 
-![MCP read multiple files](screenshots/03-mcp-read-multiple-files.png)
+<img width="1366" height="728" alt="2026-08-14 (3)" src="https://github.com/user-attachments/assets/015ba6a4-e846-423e-849e-eff75cc5fc32" />
 
 This demonstrates that the agent can retrieve information from multiple
 external files and use the results in its reasoning.
+
+---
+### Proof of Tool Use
+
+In each task, the agent could access local files not included in the conversation. This demonstrates that the agent used MCP tools (`list_directory`, `read_text_file`, `read_multiple_files`) to retrieve information from outside its context window, which ordinary chat cannot do.
 
 ---
 
@@ -262,6 +267,6 @@ that an AI agent can use MCP tools to access local information that
 would not be available through ordinary chat alone.
 
 The key lesson for me is that an agent is not simply a chatbot with a
-different name. The important characteristics are the goal-directed
+different name. The important characteristics are goal-directed
 decision-making, tool use, observation of results, and ability to
 determine what action should happen next.
