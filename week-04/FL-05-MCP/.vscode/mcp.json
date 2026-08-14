@@ -1,0 +1,14 @@
+{
+    "servers": {
+        "my-mcp-server-a4cdf118": {
+            "type": "stdio",
+            "command": "/home/clear/.nvm/versions/node/v20.20.2/bin/npx",
+            "args": [
+                "-y",
+                "@modelcontextprotocol/server-filesystem",
+                "/home/clear/FL-05-MCP/demo-files"
+            ]
+        }
+    },
+    "inputs": []
+}
