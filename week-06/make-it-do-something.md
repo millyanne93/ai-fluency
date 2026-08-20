@@ -39,4 +39,5 @@ The API key for Gemini is stored as a Netlify environment variable — it never 
 
 Here's a screenshot of the chat widget working in action:
 
+<img width="1366" height="728" alt="2026-08-16" src="https://github.com/user-attachments/assets/3adf96c8-7b36-47ba-9e07-a4359a5f3a59" />
 
