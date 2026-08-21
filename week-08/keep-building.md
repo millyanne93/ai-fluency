@@ -30,6 +30,7 @@ When I finish a new project, I will add it to my portfolio in under 30 minutes u
 - **Event title:** "Add new project to portfolio."
 - **Frequency:** Monthly (every first Friday)
 - **Screenshot:** 
+<img width="1366" height="728" alt="2026-08-21 (2)" src="https://github.com/user-attachments/assets/cd1dfc62-384c-4a83-96ba-90f8dcbcf249" />
 
 
 
