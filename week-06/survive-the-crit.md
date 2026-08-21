@@ -1,4 +1,4 @@
-# Week 7: Survive the Crit
+# Week 6: Survive the Crit
 
 ## Live URL
 
@@ -31,7 +31,7 @@ I asked a friend and colleague in the tech space to review my portfolio.
 
 **Initial reaction:**
 
-> *"Congratulations, i will go through it..you will see a comment on GitHub 👏 ❤️ I'm happy for you. That site is clean and functional, I loved it and you've hosted it on Netlify..you did an amazing job 👏"*
+> *"Congratulations, I will go through it... You will see a comment on GitHub 👏 ❤️ I'm happy for you. That site is clean and functional; I loved it, and you've hosted it on Netlify. You did an amazing job 👏"*
 
 **On the ten-second test:**
 They could tell I was a backend engineer right away from the hero section.
@@ -67,9 +67,14 @@ Yes, the projects looked real and the Trackr live demo was impressive.
 
 **Before:** Text was not appealing, especially on mobile devices.
 
+<img width="1000" height="900" alt="widget_closed (1)" src="https://github.com/user-attachments/assets/17767091-edf2-42c2-a463-cbc523c3680a" />
+
 **After:** Increased font sizes across the site for better readability.
 
-[Insert before/after screenshots]
+<img width="1366" height="728" alt="2026-08-21 (1)" src="https://github.com/user-attachments/assets/0b13dca6-c648-468f-8771-59f0eae01dec" />
+
+
+
 
 ---
 
