@@ -1,11 +1,12 @@
 # Week 6 — Open It on Your Phone
 ## Portfolio QA & Fix Log
+## What I Checked
 
-### Testing
-- Device: Android phone
-- Mobile: tested on physical device
-- Tablet: tested at ~768px viewport
-- Desktop: tested at ~1440px viewport
+- ✅ Opened on a real phone (not just browser resizing)
+- ✅ Buttons and links are tappable
+- ✅ Images are crisp (not blurry)
+- ✅ All links work (LinkedIn, GitHub, CV, Trackr demo, etc.)
+- ✅ No broken layout on any width
 
 ### Before
 The portfolio was already responsive, but I performed a real-device
@@ -62,3 +63,10 @@ been formally documented.
 After:
 Checked the portfolio at mobile, tablet and desktop widths and fixed
 any visible layout issues.
+### Screenshots
+** Before **
+<img width="720" height="1280" alt="WhatsApp Image 2026-08-21 at 11 42 13" src="https://github.com/user-attachments/assets/5286fd48-ac8e-495b-aaa6-bc5a00939b23" />
+** After **
+<img width="720" height="1280" alt="WhatsApp Image 2026-08-21 at 11 42 31" src="https://github.com/user-attachments/assets/168af59e-4b48-469c-9952-ca3d146c97f5" />
+
+
