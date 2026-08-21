@@ -64,9 +64,12 @@ After:
 Checked the portfolio at mobile, tablet and desktop widths and fixed
 any visible layout issues.
 ### Screenshots
-** Before **
+**Before**
+
 <img width="720" height="1280" alt="WhatsApp Image 2026-08-21 at 11 42 13" src="https://github.com/user-attachments/assets/5286fd48-ac8e-495b-aaa6-bc5a00939b23" />
-** After **
+
+**After**
+
 <img width="720" height="1280" alt="WhatsApp Image 2026-08-21 at 11 42 31" src="https://github.com/user-attachments/assets/168af59e-4b48-469c-9952-ca3d146c97f5" />
 
 
